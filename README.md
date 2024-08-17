@@ -29,7 +29,16 @@ Run the following command to install all the required dependencies:
 
 npm install
 
+4. Start the Development Server
+   npm start
 
+
+
+Install Node.js and npm.
+Navigate to your project directory.
+Run npm install to install dependencies.
+Start the development server with npm start.
+(Optional) Build the project for production with npm run build.
 
 Assignment Link:
 https://main--soft-taffy-debb0f.netlify.app/
